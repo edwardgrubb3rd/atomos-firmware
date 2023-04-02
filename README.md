@@ -1,5 +1,7 @@
-#  Deeper Network AtomOS Firmware 
+# Deeper Network AtomOS Firmware
+
 ## Introduction
+
 Here you can download archived and updated firmware versions for your Deeper Device miners.
 
 **Guide**: [Firmware Upgrade Guide](https://support.deeper.network/hc/en-us/articles/4423908219547-How-To-Check-Firmware-Version-and-Device-SN-)
@@ -9,3 +11,4 @@ Here you can download archived and updated firmware versions for your Deeper Dev
 
 **Download**: [Official Firmware Releases](https://deepernetwork.cc/t/firmware)
 
+<https://img.deeper.network/hw/>
