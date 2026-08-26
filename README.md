@@ -1,4 +1,5 @@
-# Deeper Network AtomOS Firmware (I never uoader the Deeper Network firmware archive, but I still will if requested 
+# Deeper Network AtomOS Firmware
+(I never uoader the Deeper Network firmware archive, but I still will if requested 
 
 ## Introduction
 
